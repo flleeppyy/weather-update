@@ -4,7 +4,9 @@
   "description": "",
   "main": "src/index.ts",
   "scripts": {
+    "startJob": "CRON=true ts-node src/index.ts",
     "start": "ts-node src/index.ts"
+
   },
   "author": "",
   "license": "ISC",
