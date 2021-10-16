@@ -15,4 +15,3 @@ npm run start
 # run and start job (does not run immediately unless you run this, like, seconds before the actual script triggers)
 npm run startJob
 ```
-
